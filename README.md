@@ -1,5 +1,4 @@
-### InsideSherpa
-# [Quantium Data Analytics](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program#lp)
+# Quantium Data Analytics
 
 **English** | [简体中文](README.zh-CN.md)
 
